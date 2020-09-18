@@ -3,6 +3,10 @@
 
 A backend component of a social network application. Can create users, users can create thoughts, and users can create reactions to thoughts. Can also delete/update any user, thought, reaction. Can also add/delete friends.
 
+## Video Walkthrough
+Part 1: https://drive.google.com/file/d/10avv9SXyuBg8wVjGGzWExHeMzl54vQK2/view
+Part 2: https://drive.google.com/file/d/1kJLU1fQMYfjjIUwgKcqHKwAu_mbw5U7b/view
+
 ## Table of Contents
 
 * [Installation](#installation)
